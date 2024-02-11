@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sandeep/static/css/main.e6c13ad2.css",
+    "main.js": "/sandeep/static/js/main.c5c4107c.js",
+    "static/js/592.22390dcd.chunk.js": "/sandeep/static/js/592.22390dcd.chunk.js",
+    "index.html": "/sandeep/index.html",
+    "main.e6c13ad2.css.map": "/sandeep/static/css/main.e6c13ad2.css.map",
+    "main.c5c4107c.js.map": "/sandeep/static/js/main.c5c4107c.js.map",
+    "592.22390dcd.chunk.js.map": "/sandeep/static/js/592.22390dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c5c4107c.js"
+  ]
+}
